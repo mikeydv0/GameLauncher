@@ -5,10 +5,11 @@
         "name": "My Game",
         "description": "Short description of your game.",
         "version": "1.0.0",
-        "downloadUrl": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID",
+        "downloadUrl": "https://drive.google.com/file/d/1WaGqGstC3tLlYJv6pSD5ZF2aN6RKGnnq/view?usp=sharing",
         "downloadSize": 150000000,
         "exeName": "MyGame.exe",
         "imageColor": "#FF6C5CE7"
       }
     ]
+
   }
